@@ -1,4 +1,4 @@
-# Sentiment-Analysis-using-LSTM
+# Sentiment-Analysis-using-LSTM (Kaggle Project)
 The goal is to assign a sentiment label to each phrase.  
 The sentiment labels are:  
 >  0 - negative  
